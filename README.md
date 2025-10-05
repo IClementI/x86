@@ -19,6 +19,6 @@ Pour l’exécuter, lancez la commande suivante dans votre terminal :
 make
 ```
 
-En cas de problème… comme disent les bons développeurs : ça fonctionne sur ma machine, donc le problème est chez vous 😎.
+En cas de problème… comme disent les bons développeurs : ça fonctionne sur ma machine.
 
 PS : Tout le code a été écrit sans IA, à l’exception du Makefile.
