@@ -1,4 +1,4 @@
-Bonjour,
+Bonjour,  
 Ce dépôt est une compilation de petits codes en ASM x86, tels que le recodage de fonctions élémentaires (`strlen`, `add`, etc.).
 Il contient également un petit projet : un mini-programme qui exécute les fonctions suivantes selon votre choix :
 
